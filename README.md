@@ -1,38 +1,53 @@
 # Welcome! 🧪
 
-From South Africa comes the game design student, Jordan.
+From South Africa comes the caffeine-fueled, game-loving, code-wielding **first-year Game Design student**, Jordan.
 
-- 💻 Currently scripting C#, working on game design and development.
-- 🎮 Passionate about building immersive games and interactive tech.
-- 🥁 Currently learning how to master my varsity schedule without losing my mind.
-- 🐧 OS of choice: Windows & MacOS
-- 🔥 Most loved programming languages: C# and HTML
-
+- 💻 Currently scripting in C#, building turn-based battle systems and UI-driven games.
+- 🎮 Passionate about immersive gameplay mechanics, storytelling, and interactive tech.
+- 🧠 Learning how to *not* go insane juggling varsity, coding, and life.
+- 🐧 OS of choice: Windows (main daily choice), MacOS (secondary choice).
+- 🔥 Favourite tools: Visual Studio, Github :)
+- 🚀 Mission: Build unforgettable games that challenge or entertain others
 
 ---
 
-## My Skills:
+## 🧠 My Skills
 
 ### 🌍 Languages
-![English](https://img.shields.io/badge/Full-Afrikaans-orange)
-![Afrikaans](https://img.shields.io/badge/Full-English-black)
+![English](https://img.shields.io/badge/Fluent-English-black)
+![Afrikaans](https://img.shields.io/badge/Fluent-Afrikaans-orange)
 
-### 🧠 Programming Languages
+### 💻 Programming & Markup
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+
+### 🧰 Tools & Frameworks
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![jordzcahn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordzcahn&show_icons=true&theme=tokyonight)
+![jordzcahn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jordzcahn&show_icons=true&theme=tokyonight&hide_border=true)
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordzcahn&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordzcahn&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🎯 Current Projects
+
+- 🐉 **Dragon Battle Game** – Windows Forms project for GADE5121  
 
 ---
 
 ### 🚀 Let's Connect
 
-Feel free to explore my repos, drop a star if something helps you, and let’s build something epic.
+> Drop a ⭐ if you like what you see — or just vibe with the chaos.
+ 
+
+---
+
+> ⚡ *“In a world full of bugs, be the debug.”*

@@ -1,5 +1,11 @@
 # Welcome! 🧪
 
+<p align="center">
+  <img src="https://github.com/jordzcahn/jordzcahn/blob/main/JordanGameDev.png" 
+   alt="Jordan The Game Dev Banner" />
+</p>
+
+
 From South Africa comes the caffeine-fueled, game-loving, code-wielding **first-year Game Design student**, Jordan.
 
 - 💻 Currently scripting in C#, building turn-based battle systems and UI-driven games.

@@ -20,8 +20,9 @@ From South Africa comes the caffeine-fueled, game-loving, code-wielding **first-
 ## 🧠 My Skills
 
 ### 🌍 Languages
-![English](https://img.shields.io/badge/Fluent-English-black)
-![Afrikaans](https://img.shields.io/badge/Fluent-Afrikaans-orange)
+![English](https://img.shields.io/badge/English-black)
+![Afrikaans](https://img.shields.io/badge/Afrikaans-orange)
+
 
 ### 💻 Programming & Markup
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)

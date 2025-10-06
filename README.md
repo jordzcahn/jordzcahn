@@ -47,7 +47,7 @@ From South Africa comes the caffeine-fueled, game-loving, code-wielding **first-
 ## 🎯 Current Projects
 
 - 🐉 **Dragon Battle Game** – Windows Forms project for GADE5121
--     **NEW POE GAME** - Windows Forms project for GADE6122 
+- 🕹️**Console Dungeon** — ASCII Roguelike Adventure
 
 ---
 

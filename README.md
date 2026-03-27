@@ -6,7 +6,7 @@
 </p>
 
 
-From South Africa comes the caffeine-fueled, game-loving, code-wielding **first-year Game Design student**, Jordan.
+From South Africa comes the caffeine-fueled, game-loving, code-wielding **2nd-year Game Design student**, Jordan.
 
 - 💻 Currently scripting in C#, building turn-based battle systems and UI-driven games.
 - 🎮 Passionate about immersive gameplay mechanics, storytelling, and interactive tech.

@@ -44,7 +44,7 @@ business:
   name: Cahn Tech Solutions
   role: Founder
   services: IT Support (On-site & Remote)
-career_goal: AAA Game Developer @ Rockstar Games | Playground Games
+career_goal: GAME DEVELOPER
 specialty: Open-world simulation games
 fun_facts:
   - Night owl who codes best after midnight 🦉
@@ -68,7 +68,7 @@ motto: "In a world full of bugs, be the debug."
 ### 🏃 Interference
 **Cyberpunk 3D Endless Runner**
 `Unity 6.3 LTS` `C#`
-> Individual prototype — 8/9 systems built. Neon-soaked cyberpunk world with procedural obstacles, dynamic difficulty, and surge mechanics.
+> Individual prototype — ENDLESS RUNNER
 
 ### 📡 Group Prototype
 **Built from Interference Concept**
@@ -87,17 +87,8 @@ motto: "In a world full of bugs, be the debug."
 **Game Jam — Rage Platformer**
 `Unity 2D`
 > Rage platformer with a gravity-flip mechanic. Built during Game Jam with Adrian, Tristan & Aidan.
-
-### ✈️ SKY SURGE
-**3D Flight Combat**
-`Three.js` `JavaScript`
-> Browser-based aerial combat game with full 3D flight controls and combat systems.
-
-### 🛡️ ShieldBrowser
-**Privacy-Focused Browser**
-`C#` `WinForms` `.NET 8`
-> Custom-built browser focused on privacy and security. Built as a learning project.
-
+>
+> 
 </td>
 </tr>
 </table>
@@ -222,38 +213,6 @@ motto: "In a world full of bugs, be the debug."
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- WAKATIME (requires setup — see instructions) -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-**🚧 Set up WakaTime to populate this section automatically — see setup guide below.**
-<!--END_SECTION:waka-->
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!-- SPOTIFY -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🎧 Now Playing
-
-<div align="center">
-
-<!-- OPTION 1: Spotify Now Playing (requires setup at https://spotify-github-profile.kittinanx.com) -->
-<!-- After setup, replace YOUR_SPOTIFY_USERNAME below -->
-<!--
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=58a6ff)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&redirect=true)
--->
-
-> 🎵 *Connect Spotify to show what you're listening to in real time — setup instructions below!*
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!-- CAREER ROADMAP -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
@@ -266,7 +225,7 @@ motto: "In a world full of bugs, be the debug."
   │                                                                     │
   │   📍 NEXT ────────→  Build portfolio │ Game jams │ Open source      │
   │                                                                     │
-  │   📍 GOAL ────────→  AAA Studio (Rockstar Games / Playground Games) │
+  │   📍 GOAL ────────→  Game Developer
   │                                                                     │
   │   📍 DREAM ───────→  Lead dev on an open-world sim │ Cape Town 🌊   │
   │                                                                     │

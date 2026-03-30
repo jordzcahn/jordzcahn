@@ -115,7 +115,6 @@ motto: "In a world full of bugs, be the debug."
 
 </div>
 
-> 💡 **Want the snake animation?** Add the [snk workflow](https://github.com/Platane/snk) — instructions in the setup guide below.
 
 <br/>
 

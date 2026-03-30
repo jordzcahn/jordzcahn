@@ -51,6 +51,8 @@ From South Africa comes the caffeine-fueled, game-loving, code-wielding **2nd-ye
 
 - 🐉 **Dragon Battle Game** – **Windows Forms project for GADE5121 POE**
 - 🕹️**Console Dungeon** — **Windows Forms Project** (**ASCII**) **Roguelike Adventure for GADE6122 POE**
+-🕹️**Endless Runner** — **Unity Game** (**3D**) **Endless Runner of my own idea**
+-🕹️**Game Jam 2026** — **2D Platformer using Unity** (**2D**) **2D Rage Game Platformer**
 
 ---
 

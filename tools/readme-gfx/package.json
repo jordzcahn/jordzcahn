@@ -1,0 +1,8 @@
+{
+  "name": "readme-gfx",
+  "private": true,
+  "type": "module",
+  "description": "Generates the profile README graphics in assets/svg",
+  "scripts": { "build": "node build.mjs ../../assets/svg" },
+  "dependencies": { "opentype.js": "^1.3.4" }
+}

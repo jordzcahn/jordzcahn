@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="20" viewBox="0 0 1000 20" role="img" aria-label="divider">
+<defs>
+  <linearGradient id="dl" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#3ee0ff" stop-opacity="0"/><stop offset="0.25" stop-color="#3ee0ff"/><stop offset="0.75" stop-color="#b86bff"/><stop offset="1" stop-color="#b86bff" stop-opacity="0"/></linearGradient>
+  <radialGradient id="dg"><stop offset="0" stop-color="#fff"/><stop offset="0.35" stop-color="#3ee0ff" stop-opacity="0.8"/><stop offset="1" stop-color="#3ee0ff" stop-opacity="0"/></radialGradient>
+</defs>
+<line x1="0" x2="1000" y1="10" y2="10" stroke="url(#dl)" stroke-width="1.5"/>
+<rect x="494" y="4" width="12" height="12" transform="rotate(45 500 10)" fill="#070b18" stroke="#3ee0ff" stroke-width="1.5"/>
+<ellipse cy="10" rx="40" ry="5" fill="url(#dg)"><animate attributeName="cx" values="-40;1040" dur="4s" repeatCount="indefinite"/></ellipse>
+</svg>

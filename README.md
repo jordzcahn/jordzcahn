@@ -78,14 +78,9 @@ motto: "In a world full of bugs, be the debug."
   <img src="assets/mothlight-banner.jpg" alt="Mothlight: circle the lamp, dodge the thorns" width="100%" />
 </div>
 
-**A one-touch orbit-hopping arcade game.** Circle the lamp, tap to hop between orbits and stay off the thorns. It started as a prototype I'd been building for a while, and I rebuilt it from the ground up in Unity as Cahn Games' first release.
+**A one-touch orbit-hopping arcade game.** Circle the lamp, tap to hop between orbits and stay off the thorns. It started as a prototype I'd been making for a while, and it's now Cahn Games' first release.
 
-- 🌙 Collectable moths, daily rewards, missions and revives
-- 🏆 Global leaderboard, cloud sign-in and analytics with Unity Gaming Services
-- 🛒 In-app purchases (Unity IAP) and rewarded ads (LevelPlay)
-- ☁️ Cloud builds with Codemagic, straight to TestFlight
-
-`Unity 6` `C#` `URP 2D` `Unity Gaming Services` `Unity IAP` `iOS` `Android`
+`Unity 6` `C#` `iOS` `Android`
 
 <div align="center">
   <img src="assets/mothlight-home.jpg" alt="Mothlight home screen" width="30%" />
@@ -101,25 +96,9 @@ motto: "In a world full of bugs, be the debug."
 
 ### 🚗 RAMJAW: Arena Wreckers &nbsp;·&nbsp; <sub>Coming to Steam</sub>
 
-<div align="center">
-  <img src="assets/ramjaw-banner.jpg" alt="RAMJAW: Arena Wreckers" width="100%" />
-</div>
+**Drift. Ram. Wreck. Repeat.** Fast, loud arcade car combat: survive endless waves of armed cars and bosses, then settle scores with a friend in couch split-screen.
 
-**Drift. Ram. Wreck. Repeat.** Fast, loud arcade car combat. Strap guns to a muscle car, survive endless waves of armed cars, bosses and helicopter gunships, then settle scores with a friend in couch split-screen.
-
-- 💥 Endless survival waves with a boss every fifth wave, plus 18 run-changing perks
-- 🏜️ Three arenas: The Stadium, Neon Harbor and Cactus Canyon
-- 🔧 4 cars, 4 weapons and 5 upgrade tracks per car
-- 🎮 Local split-screen co-op and versus, a Daily Challenge and 118 achievements
-- 🕹️ Full controller support, rebindable controls, colourblind modes and Steam Deck support
-
-`Unity 6` `C#` `Windows` `macOS` `Steam Deck`
-
-<div align="center">
-  <img src="assets/ramjaw-firefight.jpg" alt="RAMJAW Cactus Canyon firefight" width="32%" />
-  <img src="assets/ramjaw-versus.jpg" alt="RAMJAW split-screen versus" width="32%" />
-  <img src="assets/ramjaw-garage.jpg" alt="RAMJAW garage and upgrades" width="32%" />
-</div>
+`Unity 6` `C#` `PC`
 
 <br/>
 
@@ -190,7 +169,6 @@ motto: "In a world full of bugs, be the debug."
 
 ### 🚀 Shipping & Services
 ![Unity Gaming Services](https://img.shields.io/badge/Unity_Gaming_Services-222C37?style=for-the-badge&logo=unity&logoColor=white)
-![Codemagic](https://img.shields.io/badge/Codemagic-F45E3F?style=for-the-badge&logo=codemagic&logoColor=white)
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)

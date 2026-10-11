@@ -24,7 +24,7 @@
 
 <img src="assets/svg/h-about.svg" alt="About Me" width="100%" />
 
-I'm a game developer from Johannesburg who likes shipping things people can actually play. I study Game Design & Development at Vega and run **Cahn Games**, my indie studio. My first mobile title, **Mothlight**, is on its way to the App Store.
+I'm a game developer from Johannesburg who likes shipping things people can actually play. I study Game Design & Development at Vega and run **Cahn Games**, my indie studio. My first mobile title, **Mothlight**, is OUT NOW FOR DOWNLOAD.
 
 <div align="center">
   <img src="assets/svg/player-card.svg" alt="Player profile: Jordan Cahn, Game Developer, founder of Cahn Games, based in Johannesburg" width="100%" />
@@ -56,7 +56,7 @@ motto: "In a world full of bugs, be the debug."
 
 <img src="assets/svg/h-building.svg" alt="Now Building" width="100%" />
 
-### 🦋 Mothlight &nbsp;·&nbsp; <sub>Coming soon to iOS</sub>
+### 🦋 Mothlight &nbsp;·&nbsp; <sub>OUT NOW!</sub>
 
 <div align="center">
   <img src="assets/mothlight-banner.jpg" alt="Mothlight: circle the lamp, dodge the thorns" width="100%" />
